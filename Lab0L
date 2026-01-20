@@ -1,0 +1,12 @@
+#this is a comment
+#this is comment number 2
+#this is comment number 3
+#Zachary McKerley
+
+print("        +---+")
+print("        |   |")
+print("    +---+---+")
+print("    |   |   |")
+print("+---+---+---+")
+print("|   |   |   |")
+print("+---+---+---+")
